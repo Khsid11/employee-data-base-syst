@@ -21,18 +21,9 @@ This project is a simple Employee Database Management System built using HTML, C
 - Click on an employee's name to view their details on the side.
 - Click the cross sign to delete a specific employee from the database.
 
-## Dependencies
-
-None
 
 ## Credits
 
 This project is based on a tutorial from GeeksforGeeks.
 
-## Contributing
 
-Contributions are welcome! Please follow the guidelines in the CONTRIBUTING.md file.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
